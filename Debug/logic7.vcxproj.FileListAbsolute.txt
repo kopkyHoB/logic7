@@ -1,0 +1,2 @@
+C:\Users\zorro\source\repos\logic7\Debug\logic7.exe
+C:\Users\zorro\source\repos\logic7\Debug\logic7.pdb

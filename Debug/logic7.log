@@ -1,0 +1,6 @@
+﻿  logic7.cpp
+C:\Users\zorro\source\repos\logic7\logic7.cpp(64,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic7\logic7.cpp(60,4): warning C4102: hah: неиспользованная метка
+C:\Users\zorro\source\repos\logic7\logic7.cpp(62,6): warning C4101: start: неиспользованная локальная переменная
+C:\Users\zorro\source\repos\logic7\logic7.cpp(123,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  logic7.vcxproj -> C:\Users\zorro\source\repos\logic7\Debug\logic7.exe
